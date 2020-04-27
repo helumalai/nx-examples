@@ -6,6 +6,9 @@ This project was generated using [Nx](https://nx.dev).
 
 🔎 **Nx is a set of Angular CLI power-ups for modern development.**
 
+## Single-spa library example for react application
+To do: convert carts application to react single-spa so it can be deployed for run-time integration
+
 ## Nx 5 Example
 
 If you are looking for the Nx 5 Example, it is available on the [`nx-v5-example` branch](https://github.com/nrwl/nx-examples/commits/nx-v5-example).
